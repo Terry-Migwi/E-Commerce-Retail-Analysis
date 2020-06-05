@@ -1,8 +1,8 @@
-##E--Commerce-Retail-Analysis
-#Description of the project
+## E--Commerce-Retail-Analysis
+# Description of the project
 This project is on an e-commerce retailer in the United Kingdom's dataset.we were able to analyze the dataset and draw insights that will help improving the retail business.
 
-#Installation instructions
+# Installation instructions
 Setup git clone https://github.com/Nasreenz/E--Commerce-Retail-Analysis.git and extract the zip file then open the colab Notebook and the data report file.
 
 we did our data mining on google colab and our data report on google docs. I downloaded the two files and put them in a folder which i later pushed to github.
