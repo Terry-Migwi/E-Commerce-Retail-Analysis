@@ -1,6 +1,6 @@
 ## E--Commerce-Retail-Analysis
 # Description of the project
-This project is on an e-commerce retailer in the United Kingdom's dataset. We were able to analyze the data using python and draw insights from the dataset. We also created a data report using google documents where we reported our findings and made slides using google slides for the final presentation. 
+This project is on the dataset of an e-commerce retailer based in the United Kingdom. We were able to analyze the data using python and draw insights from the dataset. We also created a data report using google documents where we reported our findings and made slides using google slides for the final presentation. 
 
 # Installation instructions
 Setup git clone https://github.com/Nasreenz/E--Commerce-Retail-Analysis.git and extract the zip file then open the colab Notebook, the data report file and the presentation slides.
