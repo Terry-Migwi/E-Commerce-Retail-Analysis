@@ -3,9 +3,9 @@
 This project is on an e-commerce retailer in the United Kingdom's dataset. We were able to analyze the data using python and draw insights from the dataset. We also created a data report using google documents where we reported our findings and made slides using google slides for the final presentation. 
 
 # Installation instructions
-Setup git clone https://github.com/Nasreenz/E--Commerce-Retail-Analysis.git and extract the zip file then open the colab Notebook and the data report file.
+Setup git clone https://github.com/Nasreenz/E--Commerce-Retail-Analysis.git and extract the zip file then open the colab Notebook, the data report file and the presentation slides.
 
-we did our data mining on google colab and our data report on google docs. I downloaded the two files and put them in a folder which i later pushed to github.
+
 # Technologies used.
 *python *Jira *github *google docs *google colab
 
